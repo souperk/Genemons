@@ -1,6 +1,6 @@
 package gr.souperk.utils.context.translate;
 
-import org.apache.commons.lang.StringUtils;
+import gr.souperk.utils.StringUtils;
 
 /**
  * 

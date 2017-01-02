@@ -3,7 +3,7 @@ package gr.souperk.utils.path;
 import java.util.ArrayList;
 import java.util.List;
 
-import org.apache.commons.lang.StringUtils;
+import gr.souperk.utils.StringUtils;
 
 public class PackagePath
 	extends AbstractPath
